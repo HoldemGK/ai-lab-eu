@@ -1,1 +1,1 @@
-# ai-lab-eu
+# AI Lab
